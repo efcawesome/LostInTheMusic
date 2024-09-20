@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pogoable
+  - Tile
+  - SustainTile
+  - RespawnArea
+  - Pogoable|Spike
+  - Spike
+  - Instrument
+  - Cat
+  - BreakableWall
+  - TromboneTile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ground
+  - Gameplay Element
+  - Player
+  - Blur
+  - HatGame
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1299127775
+    locked: 0
+  - name: BackDeco
+    uniqueID: 3335350305
+    locked: 0
+  - name: Ground
+    uniqueID: 3071384927
+    locked: 0
+  - name: MidDecoration
+    uniqueID: 3612319581
+    locked: 0
+  - name: GameElement
+    uniqueID: 1376261647
+    locked: 0
+  - name: NPC
+    uniqueID: 304590367
+    locked: 0
+  - name: Enemy
+    uniqueID: 2335892921
+    locked: 0
+  - name: Player
+    uniqueID: 3715079405
+    locked: 0
+  - name: FrontDeco
+    uniqueID: 460901513
+    locked: 0
+  - name: In Game UI
+    uniqueID: 2075283797
+    locked: 0
+  - name: PianoTilesBackground
+    uniqueID: 3851980643
+    locked: 0
+  - name: PianoButton
+    uniqueID: 2317188649
+    locked: 0
+  - name: PianoTile
+    uniqueID: 2881246517
+    locked: 0
+  - name: FINAL LAYER
+    uniqueID: 2854587307
+    locked: 0

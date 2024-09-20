@@ -1,0 +1,35 @@
+﻿title: Talk
+tags:
+---
+Nigel: Chirp, chirp.
+Nigel: Oh, good, a fellow bird. <i>Chirp</i>. I need your help.
+Nigel: See, <i>chirp</i>, the kittens playing in those trees are so loud! A bird like me can't take a nap with all these little meows everywhere. Will you help me?
+-> Yes.
+    <<jump StartCatGame>>
+-> Not right now.
+    <<jump AngryNigel>>
+===
+title: StartCatGame
+tags:
+---
+Nigel: Great, let me show you where they are.
+===
+title: AngryNigel
+tags:
+---
+Nigel: That’s fine, who needs a nap anyway… <i>chirp</i>
+===
+title: Repeat
+tags:
+---
+Nigel: <i>chirp</i> Would you like to play now?
+-> Yes.
+    <<jump StartCatGame>>
+-> Not right now.
+    <<jump AngryNigel>>
+===
+title: Congratulate
+tags:
+---
+Nigel: Phew, thanks! I'm gonna go take a nap.
+===

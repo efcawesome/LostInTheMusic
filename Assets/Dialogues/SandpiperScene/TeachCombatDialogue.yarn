@@ -1,0 +1,20 @@
+﻿title: Introduce
+tags:
+---
+Mordecai: Well, well, well... Look who it is. You started this whole mess!
+Mordecai: I was about to put on my shining suit of armor just to protect myself from those terrible noises!
+-> What noises?
+<<jump Explain>>
+===
+title: Explain
+tags:
+---
+Mordecai: Since those spirits appeared, they've been attempting to play music, but they're terrible!
+Mordecai: All thats coming out of the instruments are out of tune, squeaky notes!
+Mordecai: That's where you come in. Please! Conduct them and teach them how to play before my ears fall off!
+===
+title: Repeat
+tags:
+---
+Mordecai: Please! Conduct them and teach them how to play before my ears fall off!
+===

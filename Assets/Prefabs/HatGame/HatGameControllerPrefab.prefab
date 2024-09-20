@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8672916026843157550
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4213992320344016618}
+  - component: {fileID: -3011887796868249510}
+  m_Layer: 11
+  m_Name: HatGameControllerPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4213992320344016618
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8672916026843157550}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-3011887796868249510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8672916026843157550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d6a9476986f0a4b957f8b681647c5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currGame: TestGame
+  dialogueRunner: {fileID: 0}
+  hatPrefabs: []
+  quarterNotePrefab: {fileID: 0}
+  eighthNotePrefab: {fileID: 0}
+  doubleEighthNotePrefab: {fileID: 0}
+  barPrefab: {fileID: 7063955271643987816, guid: a5a81f716a479ba4f8d2ba1a78a9a4b6, type: 3}
+  restPrefab: {fileID: 4958936681235149934, guid: f7122ac76d1d08d4e96349065ccae2d3, type: 3}
+  eighthRestPrefab: {fileID: 1917673731239475872, guid: f44eabef3b915674bb45a4c9a841341d, type: 3}
+  metronomeClick: {fileID: 8300000, guid: fb8e10b89f5868c4883e6f794f7cf6f0, type: 3}
+  smartMetronome: {fileID: 0}
+  TIME: 0
+  START_TIME: 0
+  INC_TIME: 0

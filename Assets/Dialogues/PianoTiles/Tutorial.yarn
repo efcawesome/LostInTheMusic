@@ -1,0 +1,43 @@
+﻿title: Intro
+tags:
+---
+Bartholomew: Welcome to the night sky!
+Bartholomew: The stars will fall from the top of the sky towards your buttons. To play, press the correct letter button when the falling stars line up with it.
+Bartholomew: Press the button when the star is as close as possible to the center to get the most points.
+Bartholomew: With each star, the moon will fill up more. Your goal is to fill the moon all the way!
+Bartholomew: Let’s try it!
+===
+title: FailScale
+tags:
+---
+Bartholomew: Not quite! Make sure to press the correct button when the falling star is centered with it.
+Bartholomew: Don’t worry, have another go at it.
+===
+title: SustainTile
+tags:
+---
+Bartholomew: Great job! One more thing before we hit the music: for sustained, longer notes, you have to hold down the button for the whole note!
+Bartholomew: Let’s try that!
+===
+title: FailSustain
+tags:
+---
+Bartholomew: Almost. Try to hold the button down for the entire long note.
+===
+title: GoodJob
+tags:
+---
+Bartholomew: Great job! I believe your training is done. Let’s begin!
+Bartholomew: If you fill the moon all the way, I have a special reward for you.
+Bartholomew: Get Ready!
+===
+title: EndGood
+tags:
+---
+Bartholomew: You Win!
+===
+title: EndBad
+tags:
+---
+Bartholomew: You Lose. Talk to me to try again!
+===

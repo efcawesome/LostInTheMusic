@@ -1,0 +1,26 @@
+﻿title: EndingDialogue
+tags:
+---
+Spirit of the Orchestra: Halloa once again, young Pip. Congratulations, you have completed my quest and taught all of my acolytes how to play their instruments.
+Spirit of the Orchestra: You have a bright future as a great conductor.
+<<jump Repeat>>
+===
+title: Repeat
+tags:
+---
+Spirit of the Orchestra: Are you ready?
+-> I'm ready to complete my journey
+	<<jump StartCredits>>
+-> I'm not ready. There are still hats left to find.
+	<<jump Ok>>
+===
+title: StartCredits
+tags:
+---
+Spirit of the Orchestra: Now that you’ve found your way, do one thing for me. Fly free and go get lost in the music.
+===
+title: Ok
+tags:
+---
+Spirit of the Orchestra: I understand. Come back when you are ready.
+===

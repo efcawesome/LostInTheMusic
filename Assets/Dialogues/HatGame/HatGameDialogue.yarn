@@ -1,0 +1,44 @@
+﻿title: StartGame
+tags:
+---
+Kaz: Welcome to the inside workings of my hat stall, where I weave rhythms into my dashing apparel.
+Kaz: It’s a bit of a mess in here. All I need you to do is stack hats on the hat stand there in the middle. 
+Kaz: It's a call and repeat game! A rhythm of notes will play, then you repeat the rhythm back - in time - by pressing <b>'Space'</b>!
+Kaz: Give it a go.
+===
+title: RetryTutorial
+tags:
+---
+Kaz: Not quite! Listen carefully and make sure you play back the <i>same rhythm</i> by pressing <b>'Space'</b>!
+===
+title: EightTutorial
+tags:
+---
+Kaz: Great job! Now let's try some harder rhythms that have faster notes: Eighth Notes!
+===
+title: RetryEightTutorial
+tags:
+---
+Kaz: Good attempt! Try to match the rhythms as closely as possible. You'll know you did it right if all the hats land on the stand.
+===
+title: CongratulateTutorial
+tags:
+---
+Kaz: I think you’ve got the hang of it.
+Kaz: If you stack most of the hats, I’ve got that reward for you as promised.
+===
+title: GetReady
+tags:
+---
+Kaz: Get ready!
+===
+title: EndGood
+tags:
+---
+Kaz: You Win!
+===
+title: EndBad
+tags:
+---
+Kaz: You Lose. Talk to me to try again!
+===

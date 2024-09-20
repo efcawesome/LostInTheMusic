@@ -1,0 +1,76 @@
+﻿title: StartSale
+tags:
+---
+Kaz: Heya there, Pip! Can I interest you in any hats today?
+-> I love hats!
+    <<jump WantHat>>
+-> Do you have any other wares?
+    <<jump OtherWare>>
+===
+title: WantHat
+tags:
+---
+Kaz: You and me both, pal. My hats come from far and wide, made with the highest quality materials by the best designers.
+-> Do you have any other wares?
+    <<jump OtherWare>>
+===
+title: OtherWare
+tags:
+---
+Kaz: Actually, I might have something that will interest you.
+Kaz: I see you have that baton everyone has been talking about. Was it you who unleashed these spirits on the castle?
+-> Yes!
+    <<jump TwasMe>>
+-> I don’t know what you’re talking about.
+    <<jump TwasntMe>>
+===
+title: TwasMe
+tags:
+---
+Kaz: Golly, Pip! I knew it! Look, if you help me stack some of these hats, I’ve got something that can help you on your quest.
+-> Let’s do it.
+    <<jump StartDashGame>>
+-> No thanks!
+    <<jump NoThanks>>
+===
+title: TwasntMe
+tags:
+---
+Kaz: Pip, I’ve known you since you were a wee chick. Don’t lie to me.
+-> Sorry Kaz. It was me.
+    <<jump TwasMe>>
+===
+title: NoThanks
+tags:
+---
+Kaz: Are you sure? Well, whenever you change your mind, feel free to come on back.
+===
+title: RepeatDashAd
+tags:
+---
+Kaz: Heya, Pip. If you help me stack some of these hats, I’ve got something that can help you on your quest.
+-> Sounds like a plan.
+    <<jump StartDashGame>>
+-> No thanks!
+    <<jump NoThanks>>
+===
+title: StartDashGame
+tags:
+---
+Kaz: Alrighty, let me show you around.
+===
+title: Congratulate
+tags:
+---
+Kaz: Thanks for the helping hand, Pip. Here, this should be a good reward. (Press <b>'Shift'</b> to dash)
+===
+title: GoodLuck
+tags:
+---
+Kaz: Good luck on your journey, young Pip! May you find many hats along the way.
+===
+title: FailHatGame
+tags:
+---
+Kaz: You made an even bigger mess of my workshop! Please come again and help fix it.
+===

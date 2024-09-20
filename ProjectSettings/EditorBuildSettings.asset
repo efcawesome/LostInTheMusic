@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b5bfb3485b5277e4689f0c615ac0248a
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 825c422fd5c528f49a1e982db5b2c457
+  - enabled: 0
+    path: Assets/Scenes/BatonScene.unity
+    guid: 2eb8c49431902174da8b6d9de2559f8c
+  - enabled: 1
+    path: Assets/Scenes/2.5_NextScene.unity
+    guid: e96f913aa8d3dea438275b68cd690d45
+  - enabled: 1
+    path: Assets/Scenes/PianoTiles.unity
+    guid: aa7925ccfc57778418a377d189751395
+  - enabled: 0
+    path: Assets/Scenes/BatonSceneCopy.unity
+    guid: 75af2258684f9e54394c110ca4d4e2da
+  - enabled: 1
+    path: Assets/Scenes/9_IntroPlatformingRoom.unity
+    guid: b5ffdce3e0e2c14479b1918ac00998a6
+  - enabled: 0
+    path: Assets/Scenes/IntroGoldTrans.unity
+    guid: a54a648eb7ac9a14da7a35af9aa2147c
+  - enabled: 1
+    path: Assets/Scenes/5_TreasureRoom.unity
+    guid: be9644dd82aa3dc40ac5b4e170e1659d
+  - enabled: 0
+    path: Assets/Scenes/Grove.unity
+    guid: 2f8c85f6269d1064093cd329430c0cbc
+  - enabled: 1
+    path: Assets/Scenes/17_EndingScene.unity
+    guid: e2094eeedf06c5e4599950a48ea39265
+  - enabled: 1
+    path: Assets/Scenes/7_HatRoom.unity
+    guid: 4742e8d40584303408d3f82866bf64f9
+  - enabled: 0
+    path: Assets/Scenes/MovingSpikeRoom.unity
+    guid: 2fd68f11d01cbb441b3a47aaf89e8b82
+  - enabled: 1
+    path: Assets/Scenes/3_Sand.unity
+    guid: 4fce4b4f5d66037438900273c2278fd0
+  - enabled: 0
+    path: Assets/Scenes/IntroPogoing.unity
+    guid: 784e6d974c93f65488decc1daa6cfba8
+  - enabled: 1
+    path: Assets/Scenes/6.5_Tower.unity
+    guid: 1acd6e33cac89964e8cbbbb4b8d57c6e
+  - enabled: 0
+    path: Assets/Scenes/DashAbility.unity
+    guid: 7dba72302ed89984aa1aef8154511c9c
+  - enabled: 0
+    path: Assets/Scenes/PitRoom.unity
+    guid: d7e240fe57361a44a941a0e6a8c53395
+  - enabled: 1
+    path: Assets/Scenes/15_Balcony.unity
+    guid: 9f2b5586c98b2754891ebb8705cc2b83
+  - enabled: 0
+    path: Assets/Scenes/OutsideTrans.unity
+    guid: d0b331bd5c860ea4a8aadd14d27025df
+  - enabled: 1
+    path: Assets/Scenes/16_DoorScene.unity
+    guid: f6e62c53b544582488cd61b1555186c2
+  - enabled: 1
+    path: Assets/Scenes/12_SecretRoomConcert.unity
+    guid: 6fda7c2dc5516414fb324ff6eabb1acf
+  - enabled: 1
+    path: Assets/Scenes/HatGameScene.unity
+    guid: c1997a24cc34bd04e9e6e8032cbddd0d
+  - enabled: 1
+    path: Assets/Scenes/KittenBasketGame.unity
+    guid: d59ed92625162444eb46c9a0d4346ac5
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 08de239d1a85c6a45b9da737ba6ecaf2
+  - enabled: 1
+    path: Assets/Scenes/10_TransitionScene.unity
+    guid: 6fef6f3e1382e8e499a43ad220e494b4
+  - enabled: 1
+    path: Assets/Scenes/2_BatonSceneCopy.unity
+    guid: b10cf69f5ed04284c9fe6687053b2177
+  - enabled: 1
+    path: Assets/Scenes/1_BatonScene.unity
+    guid: eb3efdaffcfe70d4ebb2e98ad73b35eb
+  - enabled: 1
+    path: Assets/Scenes/4_IntroPogoing.unity
+    guid: 17ae9593a63cf8345ae5092f99b8f5b3
+  - enabled: 1
+    path: Assets/Scenes/6_MovingSpikeRoom.unity
+    guid: 706c23d913582214daaeba160984a59a
+  - enabled: 1
+    path: Assets/Scenes/8_DashAbility.unity
+    guid: 1ed1d8927124e1d47bf0883e5f902ae4
+  - enabled: 1
+    path: Assets/Scenes/11_PitRoom.unity
+    guid: 24208838d1f9fda44a6f4a3dede8cc0a
+  - enabled: 1
+    path: Assets/Scenes/13_OutsideTrans.unity
+    guid: c5eaebdcc98a28b40a9a3878097b1340
+  - enabled: 1
+    path: Assets/Scenes/14_Grove.unity
+    guid: e3446a6b100be894fabf19d9bf14a784
+  m_configObjects: {}

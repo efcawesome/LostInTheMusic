@@ -1,0 +1,58 @@
+﻿title: Start
+tags:
+---
+Bartholomew: It seems as though I overestimated your jumping capabilities… Sorry about that! 
+Bartholomew: Hey, what happened down there? I heard a commotion! (Press <b>'Space'</b> to confirm)
+
+-> There was this spirit…
+    <<jump Spirit>>
+===
+title: Spirit
+tags:
+---
+Bartholomew: That is quite the story indeed. I’ve only heard rumors of the formidable Spirit of the Orchestra. They say he was once the greatest conductor to ever live.
+-> I found this baton…
+    <<jump SeeBaton>>
+===
+title: SeeBaton
+tags:
+---
+Bartholomew: Pip, this is great news! If such a powerful Spirit gave you a quest, you certainly must have great potential.
+Bartholomew: Remember, with great power comes great responsibility. You’ll need to be able to <b>glide</b> to continue on.
+Bartholomew: If you practice some music with me, I can teach it to you! (Swap between options with <b>'w'</b> and <b>'s'</b>. Press <b>'Space'</b> to confirm.)
+-> Play <i>Starry Piano</i>
+    <<jump StartGame>>
+-> I’d rather explore first!
+    <<jump NoThanks>>
+===
+title: NoThanks
+tags:
+---
+Bartholomew: That's ok... If you change your mind, come talk to me!
+===
+title: AskGame
+tags:
+---
+Bartholomew: Do you want to practice some music with me?
+
+-> Yes.
+    <<jump StartGame>>
+-> No thanks.
+    <<jump NoThanks>>
+===
+title: StartGame
+tags:
+---
+Bartholomew: Wonderful!
+===
+title: FinishGame
+tags:
+---
+Bartholomew: Great Job! I think you’re ready to learn <b>Glide</b>!
+    <<jump Congratulate>>
+===
+title: Congratulate
+tags:
+---
+Bartholomew: To <b>Glide</b>, hold <b>'Space'</b> while in the air.
+===
